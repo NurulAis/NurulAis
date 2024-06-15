@@ -29,7 +29,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=py,c,tensorflow,fastapi,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=py,c,tensorflow,sklearn,pandas,fastapi,docker" /><br>
 </div>
 
 <br/>
