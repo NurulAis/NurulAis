@@ -8,6 +8,7 @@
 
 <div align="center">
  👷‍♀️ I'm an Electrical Engineering student at Jenderal Soedirman University
+    
  🤖 I’m currently learning **Machine Learning and Data Science**
  </div>
  
