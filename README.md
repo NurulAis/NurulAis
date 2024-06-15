@@ -2,17 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nurul+Aisyah!;" />
 </h1>
 
-<h3 align="center">I'm a data enthusiast with a passion for uncovering insights from data and turning them into actionable solutions. My expertise spans data analysis, data visualization, and machine learning.</h3>
+<h3 align="center">I'm a passionate data scientist and machine learning enthusiast</h3>
 
 <br/>
 
 <div align="center">
- 
- 🤖 I’m currently learning **Machine Learning**
- 
-
-
-
+ 👷‍♀️ I'm an Electrical Engineering student at Jenderal Soedirman University
+ 🤖 I’m currently learning **Machine Learning and Data Science**
  </div>
  
 <div align="center"> 
