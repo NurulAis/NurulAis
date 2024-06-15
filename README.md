@@ -41,7 +41,7 @@
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NurulAis&theme=rose-pine&mode=weekly" alt="GitHub Streak" /></a>
-    [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurulAis&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+     <img width=390 src="https://github-readme-stats.vercel.app/api?username=NurulAis&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <br/><br/>
