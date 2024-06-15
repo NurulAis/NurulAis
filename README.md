@@ -39,8 +39,6 @@
      <img src="https://github-readme-stats.vercel.app/api?username=NurulAis&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
-<br/><br/>
-
 <hr/>
 
 
