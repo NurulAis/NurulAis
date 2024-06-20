@@ -27,8 +27,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,arduino" /><br>
-    <img src="https://skillicons.dev/icons?i=py,c,tensorflow,sklearn,fastapi,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=py,c,tensorflow,sklearn,fastapi,docker,arduino" /><br>
 </div>
 
 <br/>
