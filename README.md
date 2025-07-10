@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
- ⚡ I'm an <strong>Electrical Engineering</strong> student at Jenderal Soedirman University
+ ⚡ I'm an <strong>Electrical Engineering</strong> graduate from Jenderal Soedirman University
     
  🤖 I’m currently learning **Machine Learning and Data Science**
  </div>
